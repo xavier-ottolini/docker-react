@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <p className="App-intro">
-        I was changed on the <span style="font-style: italic">freature</span> branch!
+        I was changed on the feature branch!
       </p>
     </div>
   );
