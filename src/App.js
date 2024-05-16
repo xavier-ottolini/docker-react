@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <p className="App-intro">
+        I was changed on the <span style="font-style: italic">freature</span> branch!
+      </p>
     </div>
   );
 }
