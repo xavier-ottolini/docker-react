@@ -9,7 +9,7 @@ deploy:
   provider: elasticbeanstalk
   region: "eu-west-3"
   app: "frontend"
-  env: "Frontend-dev"
+  env: "Frontend-env"
   bucket_name: "elasticbeanstalk-eu-west-3-992382828808"
   bucket_path: "frontend"
   on: 
